@@ -1,0 +1,8 @@
+alias zshsource="source ~/.zshrc"
+o(){
+    open -a "Google Chrome" 'https://www.reddit.com/'
+    open -a "Google Chrome" 'https://mail.google.com/mail/u/0/#inbox'
+    open -a "Google Chrome" 'https://www.youtube.com/'
+    open -a "Google Chrome" 'https://www.linkedin.com/feed/'
+    open -a "Google Chrome" 'https://github.com/Ryoung27'
+}
