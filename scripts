@@ -6,3 +6,11 @@ o(){
     open -a "Google Chrome" 'https://www.linkedin.com/feed/'
     open -a "Google Chrome" 'https://github.com/Ryoung27'
 }
+
+c(){
+    code .
+}
+
+..(){
+    cd ..
+}
