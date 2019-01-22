@@ -14,3 +14,11 @@ c(){
 ..(){
     cd ..
 }
+
+buns(){
+    open -a anaconda-navigator
+}
+
+slack(){
+    open -a slack
+}
