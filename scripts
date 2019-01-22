@@ -22,3 +22,7 @@ buns(){
 slack(){
     open -a slack
 }
+
+push(){
+    git push -u origin master
+}
