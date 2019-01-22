@@ -26,3 +26,7 @@ slack(){
 push(){
     git push -u origin master
 }
+
+add(){
+    git add .
+}
